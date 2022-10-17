@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style type = "text/css">       
+      ul{float: right; list-style-type: none;}
+      li{display: inline; font-size: 20px; }
+      a:link {text-decoration: none; color: pink;}
+      a:visited {text-decoration: none; color: skyblue;}
+      p{color:gray; font-size: 15px; text-align: center;}
+      td {text-align: center;}
+      table{ margin-left: 23%; margin-bottom: 5%; font-size: 25px;}
+    </style>
+    
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="mainpage.html">Home</a></li>
+                <li><a href="location.html">Locations</a></li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </header>
+    <header>
+        <canvas id ="canvas" width = "1500" height="210"></canvas>
+        <script type ="text/javascript">
+            var canvas = document.getElementById("canvas");
+            var context = canvas.getContext("2d");
+            var text1 = "6";
+            var text2 = "효창공원앞역 맛집 리스트"
+
+            context.beginPath();
+            context.arc(410, 145, 50, 0, 2*Math.PI);
+            context.fillStyle = "white";
+            context.lineWidth = "15";
+            context.strokeStyle = "orange";
+            context.stroke();
+            context.fill();
+
+            context.font= "bold 40pt Courier New";
+            context.fillStyle = "orange";
+            context.fillText(text1 , 395, 160);
+
+
+            context.font= "bold 40pt Courier New";
+            context.strokeStyle = "black";
+            context.lineWidth = "2";
+            context.strokeText(text2, 510, 160);
+        </script>
+    </header>
+    
+    <section>
+        <table>
+            <tr>
+                <td>
+                    <img id = "one1" src = "https://mp-seoul-image-production-s3.mangoplate.com/349028/1017991_1525408833301_39349?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80" style = "display:inline; width: 200px; height: 200px;">
+                </td>
+            
+                <td>
+                    <img id = "one2" src = "https://mp-seoul-image-production-s3.mangoplate.com/787041_1616423114344952.jpg?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80" style = "display:inline; width: 200px; height: 200px;">
+                </td>
+                <td>
+                    <img id = "one3" src = "https://mp-seoul-image-production-s3.mangoplate.com/1730/398645_1456177017032_156280?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80" style = "display:inline; width: 200px; height: 200px;">
+                </td>
+                <td>
+                    <img id = "one4" src = "https://mp-seoul-image-production-s3.mangoplate.com/1180395_1579597877284962.jpg?fit=around|120:120&crop=120:120;*,*&output-format=jpg&output-quality=80" style = "display:inline; width: 200px; height: 200px;">
+                </td>
+            </tr>
+            <tr>
+                <td>PINT</td>
+                <td>용호야채곱창</td>
+                <td>용문해장국</td>
+                <td>효창동붕어빵</td>
+            </tr>
+        </table>
+        
+    </section>
+    <footer>
+        <p>| 고객센터 - 02 1234 567 | 문의 메일 - jihee2022@gmail.com | </p>
+    </footer>
+</body>
+</html>

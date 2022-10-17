@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style type = "text/css">
+        #hd{padding: 20px;}
+        #tt{margin-left:17%;}
+        ul{float: right; list-style-type: none;}
+        li{display: inline; font-size: 20px;}
+        table{border-style: dotted; border-width: 5px; 
+            display: flex; flex-direction: row-reverse;}
+        a:link {text-decoration: none; color: pink;}
+        a:visited {text-decoration: none; color: skyblue;}
+        p{color:gray; font-size: 15px; text-align: center;}
+    </style>
+
+    <script type = "text/javascript">
+        function zoomIn(event) {
+          event.target.style.width = "600px";
+          event.target.style.height = "600px";
+          event.target.style.transition = "all 0.5s";
+        }
+      
+        function zoomOut(event) {
+          event.target.style.width = "500px";
+          event.target.style.height = "500px";
+          event.target.style.transition = "all 0.5s";
+        }
+
+        alert("맛집 지도에 오신 것을 환영합니다!");
+      
+      </script>
+</head>
+<body id ="bd">
+    <header id="hd">
+        <nav>
+            <ul>
+                <li><a href="mainpage.html">Home</a></li>
+                <li><a href="location.html">Locations</a></li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </header>
+    <section id = "st">
+        <div id = "tt"><img src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW5mKI-lBzd_4RglDNJPoVMDV4NkM7NVAbqwd5g82VI6oLhqVCsZYUj3jiZ4IyZzdsjjR0mIZuVzJW1VghTe1utrlXFlumNXIk2NbRO9-Ewyd52pegpj1wJeDSc-yf_R0AnXHW0r6NbL-S6JJYKfAWsTpBK_f_X1astR7ChnqAIoRu9OoPD3WC_grm/s16000/tt.jpg"style = "display:inline; width: 1000px; height: 250px;">></div>
+        <table>
+            <tr>
+                <td>
+                    <a href= "linkone.html">
+                    <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9HxhdrsBscwvxzkeWhd-9l158acMhzqPBxa0O5b8NWkodOOEyu-b_VvxKM8svoHLBH-tl70pjaLRSAA-SAovNRgG-6GcCCYfc-99lc7WvdrFSfuheYUwTKwuLqmwuq_IQAT93N0zXi9u1q23kbtZoWiWFCK_Odcoi2WCboJV14OMsuuz7GBzzzhwy/s16000/003.png"onmouseenter="zoomIn(event)" onmouseleave="zoomOut(event)">
+                    </a>
+                </td>
+                <td>
+                    <a href="linktwo.html">
+                    <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0B_rhQOH3G3F7FOP3qYoUN9YyS-_9XFAuJ7vjYQdsL-Mu9gGNeyO2TvVl55jk5_IKHAfhG34uM_6Z1ugBkdHC_Nenx8uW5rEAefgh7X54QSilTNaP-viKNYwojIjwaO0kDs2jKva6mOpP2-uZiBXUrYyaNgmBy9JHS7HVao-ElpE9PSsNw6RbTGSd/s16000/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-002.png"onmouseenter="zoomIn(event)" onmouseleave="zoomOut(event)">
+                </a>
+                </td>
+                <td>
+                    <a href="linkthree.html">
+                    <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAo16m1uFS7uV9a10BYWIukMA1ga3LBGnRVuV7DuSVkinCgq66o81VwJGdqW52NOsSjn4ylVg4oVzzP6bnQUFVaeE94Z3AuvbLdBUtES0qxFf2_7vzLmveWZ7fCCiYFp1R8Qr_RR-n50kifIw3alyezkIstFrORcNNZvEnV4guQ_j801wWi_S4lGSj/s16000/004.png"onmouseenter="zoomIn(event)" onmouseleave="zoomOut(event)">
+                </a>
+                </td>
+            </tr>
+        </table>
+        </section>
+    <footer>
+        <p>| 고객센터 - 02 1234 567 | 문의 메일 - jihee2022@gmail.com | </p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style type = "text/css">       
+      ul{float: right; list-style-type: none;}
+      li{display: inline; font-size: 20px; }
+      a:link {text-decoration: none; color: pink;}
+      a:visited {text-decoration: none; color: skyblue;}
+      p{color:gray; font-size: 15px; text-align: center;}
+      td {text-align: center;}
+      table{ margin-left: 23%; margin-bottom: 5%; font-size: 25px;}
+    </style>
+    
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="mainpage.html">Home</a></li>
+                <li><a href="location.html">Locations</a></li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </header>
+    <header>
+        <canvas id ="canvas" width = "1500" height="210"></canvas>
+        <script type ="text/javascript">
+            var canvas = document.getElementById("canvas");
+            var context = canvas.getContext("2d");
+            var text1 = "4";
+            var text2 = "숙대입구역 맛집 리스트"
+
+            context.beginPath();
+            context.arc(410, 145, 50, 0, 2*Math.PI);
+            context.fillStyle = "white";
+            context.lineWidth = "15";
+            context.strokeStyle = "skyblue";
+            context.stroke();
+            context.fill();
+
+            context.font= "bold 40pt Courier New";
+            context.fillStyle = "skyblue";
+            context.fillText(text1 , 395, 160);
+
+
+            context.font= "bold 40pt Courier New";
+            context.strokeStyle = "black";
+            context.lineWidth = "2";
+            context.strokeText(text2, 510, 160);
+        </script>
+    </header>
+    
+    <section>
+        <table>
+            <tr>
+                <td>
+                    <img id = "one1" src = "https://img1.daumcdn.net/thumb/C176x176/?fname=https://k.kakaocdn.net/dn/YN92O/btq0LPRjw4a/kKvqeTod4NLWEJR8I7n5o0/img.jpg" style = "display:inline; width: 200px; height: 200px;">
+                </td>
+                <td>
+                    <img id = "one2" src = "https://img.siksinhot.com/place/1551354608184159.PNG" style = "display:inline; width: 200px; height: 200px;">
+                </td>
+                <td>
+                    <img id = "one3" src = "https://mp-seoul-image-production-s3.mangoplate.com/424018/1196871_1645857928529_15571?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80" style = "display:inline; width: 200px; height: 200px;">
+                </td>
+                <td>
+                    <img id = "one4" src = "https://mblogthumb-phinf.pstatic.net/MjAyMDA3MzBfMjE4/MDAxNTk2MDk1NTY1MTk2.mDc8xsX3pmGvvHtA-7N8pbP3RuD3Ot_nGueE1ICMdQYg.RjTco55SrdtuuDvFTmCMoBPhoM2t0cyfxPHAtK_nxVkg.JPEG.wjdwltn216/1596095564025.jpg?type=w800" style = "display:inline; width: 200px; height: 200px;">
+                </td>
+            </tr>
+            <tr>
+                <td>베프떡볶이</td>
+                <td>작은도쿄</td>
+                <td>비일</td>
+                <td>몬스터플레이스</td>
+            </tr>
+        </table>
+        
+    </section>
+    <footer>
+        <p>| 고객센터 - 02 1234 567 | 문의 메일 - jihee2022@gmail.com | </p>
+    </footer>
+</body>
+</html>

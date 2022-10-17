@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style type = "text/css">       
+      ul{float: right; list-style-type: none;}
+      li{display: inline; font-size: 20px; }
+      a:link {text-decoration: none; color: pink;}
+      a:visited {text-decoration: none; color: skyblue;}
+      p{color:gray; font-size: 15px; text-align: center;}
+      #click {text-align: center; color:gray;font-size: 25px;}
+      table{ margin-left: 25%; margin-bottom: 5%; font-size: 25px;}
+    </style>
+
+    <script type = "text/javascript">
+        function zoomIn(event) {
+          event.target.style.width = "250px";
+          event.target.style.height = "250px";
+          event.target.style.transition = "all 0.5s";
+        }
+      
+        function zoomOut(event) {
+          event.target.style.width = "200px";
+          event.target.style.height = "200px";
+          event.target.style.transition = "all 0.5s";
+        }
+      </script>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="mainpage.html">Home</a></li>
+                <li><a href="location.html">Locations</a></li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </header>
+    <header>
+        <canvas id ="canvas" width = "1500" height="210"></canvas>
+        <script type ="text/javascript">
+            var canvas = document.getElementById("canvas");
+            var context = canvas.getContext("2d");
+            var text = "찾아오시는 길"
+
+            context.font= "bold 40pt Courier New";
+            context.strokeStyle = "black";
+            context.lineWidth = "2";
+            context.strokeText(text, 600, 160);
+        </script>
+    </header>
+    
+    <section>
+        <table>
+            <tr>
+                <td>
+                    <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKkFPLO-AjsYXqq18YDp8lDNAYwC8Bowm8XZJaM7YhO07IjzMS6REhyApeJOSvxCDNElPdtSATD0Ws7o3QWKGH9ufW45FvTf35wr7RgImQ4O1Dhsr_sA0QQhvD38Jiz4KQiuxs93jslUW5bk3EOZWV4FHferrvI5jDShcb4XRnUIWKAtPaM81kdDSW/s16000/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001.jpg"  style = "display:inline; width: 200px; height: 200px;">
+                </td>
+                <td>
+                    <a href= "https://moovitapp.com/index/ko/%EB%8C%80%EC%A4%91_%EA%B5%90%ED%86%B5-%EB%82%A8%EC%98%81%EC%97%AD-%EC%84%9C%EC%9A%B8%EC%8B%9CSeoul-stop_8734570-1802">
+                    <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9HxhdrsBscwvxzkeWhd-9l158acMhzqPBxa0O5b8NWkodOOEyu-b_VvxKM8svoHLBH-tl70pjaLRSAA-SAovNRgG-6GcCCYfc-99lc7WvdrFSfuheYUwTKwuLqmwuq_IQAT93N0zXi9u1q23kbtZoWiWFCK_Odcoi2WCboJV14OMsuuz7GBzzzhwy/s16000/003.png"  style = "display:inline; width: 200px; height: 200px;" onmouseenter="zoomIn(event)" onmouseleave="zoomOut(event)">
+                    </a>
+                </td>
+                <td>
+                    <a href="https://moovitapp.com/index/ko/%EB%8C%80%EC%A4%91_%EA%B5%90%ED%86%B5-%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD-%EC%84%9C%EC%9A%B8%EC%8B%9CSeoul-stop_8748060-1802">
+                    <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLF46EDTG9lwE4izko7Fr38-rtEB5FnYykTrTwHRx4KRU4SreVC6oSV9UZW-Qp4ar33aAmDcpH-3rBhSbVw_C11XqnLuCcDD7CJKviWAW9BVIRAGCR6G2tSKBfOlpTVJUwh_gkuG3qPAWQZZKt8wrSA2MCP3PJq8Z2bMgwwm2YpcRbmEdOJtpj3xIY/s16000/002.png" style = "display:inline; width: 200px; height: 200px;" onmouseenter="zoomIn(event)" onmouseleave="zoomOut(event)">
+                </a>
+                </td>
+                <td>
+                    <a href="https://moovitapp.com/index/ko/%EB%8C%80%EC%A4%91_%EA%B5%90%ED%86%B5-%ED%9A%A8%EC%B0%BD%EA%B3%B5%EC%9B%90%EC%95%9E%EC%97%AD-%EC%84%9C%EC%9A%B8%EC%8B%9CSeoul-stop_8733707-1802">
+                    <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAo16m1uFS7uV9a10BYWIukMA1ga3LBGnRVuV7DuSVkinCgq66o81VwJGdqW52NOsSjn4ylVg4oVzzP6bnQUFVaeE94Z3AuvbLdBUtES0qxFf2_7vzLmveWZ7fCCiYFp1R8Qr_RR-n50kifIw3alyezkIstFrORcNNZvEnV4guQ_j801wWi_S4lGSj/s16000/004.png"  style = "display:inline; width: 200px; height: 200px;" onmouseenter="zoomIn(event)" onmouseleave="zoomOut(event)">
+                </a>
+                </td>
+            </tr>
+        </table>
+
+        <p id="click">클릭 시 교통편이 안내됩니다</p>
+    </section>
+
+    <footer>
+        <p>| 고객센터 - 02 1234 567 | 문의 메일 - jihee2022@gmail.com | </p>
+    </footer>
+</body>
+</html>
