@@ -1,6 +1,7 @@
-
+<div align="center">
 <h3> 💻 Stack </h3>
 <h4> platforms & Languaes </h4>
+</br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
@@ -12,7 +13,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
 
 
-
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
