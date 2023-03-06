@@ -1,5 +1,5 @@
-<div align="left">
-  <h1> 🌱 Hello I'm Jihee! </h1></br>
+<div align="center">
+  <h1> 🌱 Hello I'm Jihee! </h1>
   <h3> 💻 Stack </h3>
   <h4> platforms & Languaes </h4></br>
 
@@ -13,11 +13,12 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
 
 
-</div>
+</br>
+</br>
 
-<div align ="right">
-  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjihee&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjihee)
 
 </div>
+
