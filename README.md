@@ -1,4 +1,8 @@
-<div align="center">
+<div align="left">
+🏫 Sookmyung Women's University IT engineering
+🚀 FE Developer
+💫 interested in ui/ux design
+  
   <h1> Hello, I'm Jihee </h1>
   <h3> 💻 Stack </h3>
   <h4> platforms & Languaes </h4></br>
