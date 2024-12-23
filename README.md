@@ -34,9 +34,11 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjihee&show_icons=true&theme=radical)
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjihee&show_icons=true&theme=radical" alt="GitHub stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjihee" alt="Top Langs" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjihee)
 
 </div>
 
