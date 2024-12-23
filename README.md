@@ -1,20 +1,21 @@
 <div>
   
-## 🍓Hi, I'm JIHEE
-<p>✏️ 안녕하세요 ios를 공부하고 있는 안지희입니다.</p></br>
+## JIHEE
 
 
-## 활동 이력
 
-- **UMC** 4기 Server - Spring Boot (2023.03 ~ 2023.08)
-- 숙명여자대학교 **SOLUX** 26기 Front-End (2022.09 ~ 2023.02)
-- 숙명여자대학교 **SOLUX** 27기 Android (2023.03 ~ 2023.08)
-- 숙명여자대학교 **SOLUX** 28기 Unity (2023.09 ~ 2024.02)
+
+## Club Experience
+
+- **UMC** 4th Server - Spring Boot (2023.03 ~ 2023.08)
+- Sookmyung Women's University **SOLUX** 26th Front-End (2022.09 ~ 2023.02)
+- Sookmyung Women's University **SOLUX** 27th Android (2023.03 ~ 2023.08)
+- Sookmyung Women's University **SOLUX** 28th Unity (2023.09 ~ 2024.02)
 
 </br>
 </br>
 
-## 💻 Plaform & Stack
+## Plaform & Stack
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
