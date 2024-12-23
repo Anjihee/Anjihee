@@ -1,11 +1,13 @@
 <div>
   
-## JIHEE
+## 💭 Jihee's Page
 
 
 
+</br>
 
-## Club Experience
+
+## 📍 Club Experience
 
 - **UMC** 4th Server - Spring Boot (2023.03 ~ 2023.08)
 - Sookmyung Women's University **SOLUX** 26th Front-End (2022.09 ~ 2023.02)
@@ -15,7 +17,7 @@
 </br>
 </br>
 
-## Plaform & Stack
+## ⌨️ Plaform & Stack
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
