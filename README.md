@@ -1,5 +1,9 @@
-<div align="left">
-  <p>✏️ 안녕하세요 iOS를 공부하고 있는 안지희입니다.</p></br>
+
+<p>✏️ 안녕하세요 iOS를 공부하고 있는 안지희입니다.</p></br>
+<p>✏️ 안녕하세요 iOS를 공부하고 있는 안지희입니다.</p></br>
+
+
+  
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -11,11 +15,6 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
 
 
-### 사용한 기술 및 도구
-- React, Django, Node.js, Spring, Java
-- GitHub Pages 및 Markdown
-
-
 </br>
 </br>
 
@@ -23,5 +22,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjihee)
 
-</div>
 
