@@ -1,4 +1,4 @@
-
+<div>
 <p>✏️ 안녕하세요 iOS를 공부하고 있는 안지희입니다.</p></br>
 <p>✏️ 안녕하세요 iOS를 공부하고 있는 안지희입니다.</p></br>
 
@@ -18,8 +18,12 @@
 </br>
 </br>
 
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjihee&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjihee)
+
+</div>
 
 
