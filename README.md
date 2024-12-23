@@ -1,9 +1,8 @@
 <div>
   
 ## 💭 Jihee's Page
-
-
-
+- Sookmyung Women's University, IT Engineering Major March 2021 - Present
+- Sookmyung Women's University, Big Data Major September 2023 - Present
 </br>
 
 
@@ -29,13 +28,11 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
 
 
-</br>
-</br>
-
-
+</br></br></br></br>
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anjihee&show_icons=true&theme=radical" alt="GitHub stats" style="margin-right: 100px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjihee&show_icons=true&theme=radical" alt="GitHub stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- 간격을 원하시면 이 부분을 조정하세요 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjihee" alt="Top Langs" />
 </div>
 
