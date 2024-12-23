@@ -1,17 +1,17 @@
 <div>
   
 ## 💭 Jihee's Page
-- Sookmyung Women's University, IT Engineering Major March 2021 - Present
-- Sookmyung Women's University, Big Data Major September 2023 - Present
+- Sookmyung Women's University, IT Engineering Major ( 2021.03 - Present)
+- Sookmyung Women's University, Big Data Major ( 2023.09 - Present )
 </br>
 
 
 ## 📍 Club Experience
 
-- **UMC** 4th Server - Spring Boot (2023.03 ~ 2023.08)
-- Sookmyung Women's University **SOLUX** 26th Front-End (2022.09 ~ 2023.02)
-- Sookmyung Women's University **SOLUX** 27th Android (2023.03 ~ 2023.08)
-- Sookmyung Women's University **SOLUX** 28th Unity (2023.09 ~ 2024.02)
+- **UMC** 4th Server - Spring Boot (2023.03 - 2023.08)
+- Sookmyung Women's University **SOLUX** 26th Front-End (2022.09 - 2023.02)
+- Sookmyung Women's University **SOLUX** 27th Android (2023.03 - 2023.08)
+- Sookmyung Women's University **SOLUX** 28th Unity (2023.09 - 2024.02)
 
 </br>
 </br>
