@@ -1,5 +1,6 @@
 <div align="left">
-  <h4>안녕하세요 iOS를 </h4></br>
+  <h4>✏️ 안녕하세요 iOS를 공부하고 있는 안지희입니다.</h4></br>
+  <h4>✏️ 안녕하세요 iOS를 공부하고 있는 안지희입니다. </h4></br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -13,7 +14,6 @@
 
 </br>
 </br>
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjihee&show_icons=true&theme=radical)
 
