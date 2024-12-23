@@ -1,8 +1,13 @@
 <div>
 <p>✏️ 안녕하세요 ios를 공부하고 있는 안지희입니다.</p></br>
-Seoul, South Korea
-Tel. 010-2429-9138
-E. jihee5100@sookmyung.ac.kr
+
+## 활동 이력
+
+- **UMC** 4기 Server - Spring Boot (2023.03 ~ 2023.08)
+- 숙명여자대학교 **SOLUX** 26기 Front-End (2022.09 ~ 2023.02)
+- 숙명여자대학교 **SOLUX** 27기 Android (2023.03 ~ 2023.08)
+- 숙명여자대학교 **SOLUX** 28기 Unity (2023.09 ~ 2024.02)
+
 
   
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
