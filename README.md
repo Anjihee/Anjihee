@@ -1,6 +1,8 @@
 <div>
 <p>✏️ 안녕하세요 ios를 공부하고 있는 안지희입니다.</p></br>
-
+Seoul, South Korea
+Tel. 010-2429-9138
+E. jihee5100@sookmyung.ac.kr
 
   
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
