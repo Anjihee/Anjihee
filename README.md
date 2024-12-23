@@ -1,6 +1,5 @@
 <div>
-<p>✏️ 안녕하세요 iOS를 공부하고 있는 안지희입니다.</p></br>
-<p>✏️ 안녕하세요 iOS를 공부하고 있는 안지희입니다.</p></br>
+<p>✏️ 안녕하세요 ios를 공부하고 있는 안지희입니다.</p></br>
 
 
   
@@ -13,6 +12,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
 
 </br>
