@@ -1,4 +1,5 @@
 <div>
+## 🍓안지희
 <p>✏️ 안녕하세요 ios를 공부하고 있는 안지희입니다.</p></br>
 
 
@@ -9,7 +10,8 @@
 - 숙명여자대학교 **SOLUX** 27기 Android (2023.03 ~ 2023.08)
 - 숙명여자대학교 **SOLUX** 28기 Unity (2023.09 ~ 2024.02)
 
-
+</br>
+</br>
 
 ## 💻 Plaform & Stack
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
