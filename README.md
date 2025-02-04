@@ -1,10 +1,10 @@
 <div>
   
 ## 💭 Jihee's Page
-- Sookmyung Women's University, IT Engineering Major
-- Sookmyung Women's University, Big Data Major
-- FE Developer | Mobile & Web Apps
-- learning iOS app development!
+Sookmyung Women's University, IT Engineering Major
+Sookmyung Women's University, Big Data Major
+FE Developer | Mobile & Web Apps
+learning iOS app development!
   
 </br>
 
