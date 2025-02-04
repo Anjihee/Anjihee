@@ -1,10 +1,11 @@
 <div>
   
 ## 💭 Jihee's Page
-- Sookmyung Women's University, IT Engineering Major ( 2021.03 - Present)
-- Sookmyung Women's University, Big Data Major ( 2023.09 - Present )
-- Frontend Developer | Mobile & Web Apps
+- Sookmyung Women's University, IT Engineering Major
+- Sookmyung Women's University, Big Data Major
+- FE Developer | Mobile & Web Apps
 - learning iOS app development!
+  
 </br>
 
 
