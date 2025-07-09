@@ -38,7 +38,7 @@
       <td><a href="https://github.com/Anjihee/Sign2Text">Sign2Text</a></td>
     </tr>
     <tr>
-      <td>2025.04 - 2025.06</td>
+      <td>2025.04-2025.06</td>
       <td>SOCK</td>
       <td>암호화폐 지갑 앱</td>
       <td>React Native, Swift, Kotlin, Rust</td>
@@ -66,14 +66,14 @@
       <td><a href="https://github.com/Anjihee/28th_2_UNICON_Ecoguardians_unity">에코가디언즈</a></td>
     </tr>
     <tr>
-      <td>2023.10 - 2023.12</td>
+      <td>2023.10-2023.12</td>
       <td>브스널컬러</td>
       <td>뇌파 기반 집중력 진단 + 맞춤형 무드등 추천 서비스 </td>
       <td>Python, PHP</td>
       <td><a href="https://github.com/Anjihee/Bsonalcolor_Data">브스널컬러</a></td>
     </tr>
     <tr>
-      <td>2023.6 - 2023.8</td>
+      <td>2023.06-2023.08</td>
       <td>SURROUND</td>
       <td>편리한 공동구매를 돕는 Android 기반 앱</td>
       <td>Kotlin, Firebase</td>
