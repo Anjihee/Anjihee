@@ -26,7 +26,7 @@
     <tr>
       <td>2025.03 - 현재</td>
       <td>Ball래?</td>
-      <td>실시간 문자 중계 기반 야구 정보 제공 앱 (졸업 프로젝트)</td>
+      <td>인터랙티브 야구 중계 앱</td>
       <td>React Native, Swift, Kotlin, Django</td>
       <td><a href="https://github.com/ballrae/Front">Ball래?</a></td>
     </tr>
