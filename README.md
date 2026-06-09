@@ -1,11 +1,7 @@
-<div>
-  
 ## 💭 Jihee's Page
 
 - Sookmyung Women's University  IT Engineering & Big Data (Double Major)
 - **iOS Developer**, learning React Native for cross-platform app development
-</br>
-
 
 </br>
 </br>
@@ -25,6 +21,17 @@
   <tbody>
     <tr>
       <td>2025.03 - 현재</td>
+      <td>토도독</td>
+      <td>병렬독서 타이머 & 독서 기록 iOS 앱 <br/>
+        <a href="https://apps.apple.com/kr/app/%ED%86%A0%EB%8F%84%EB%8F%85-%EB%8F%85%EC%84%9C-%ED%83%80%EC%9D%B4%EB%A8%B8-%EA%B8%B0%EB%A1%9D/id6758536383">
+          <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="20"/>
+        </a>
+      </td>
+      <td>Swift</td>
+      <td><a href="https://github.com/Anjihee">토도독</a></td>
+    </tr>
+    <tr>
+      <td>2025.03 - 2025.10</td>
       <td>Ball래?</td>
       <td>인터랙티브 야구 중계 앱</td>
       <td>React Native, Swift, Kotlin, Django</td>
@@ -38,7 +45,7 @@
       <td><a href="https://github.com/Anjihee/Sign2Text">Sign2Text</a></td>
     </tr>
     <tr>
-      <td>2025.04-2025.06</td>
+      <td>2025.04 - 2025.06</td>
       <td>SOCK</td>
       <td>암호화폐 지갑 앱</td>
       <td>React Native, Swift, Kotlin, Rust</td>
@@ -52,28 +59,28 @@
       <td><a href="https://github.com/Anjihee/Gyeotae">곁에</a></td>
     </tr>
     <tr>
-      <td>2025.1</td>
+      <td>2025.01</td>
       <td>MyHands</td>
       <td>게이미피케이션 기반 사내 성과 관리 iOS 앱</td>
       <td>Swift, Spring</td>
       <td><a href="https://github.com/Anjihee/myhand-ios">MyHands</a></td>
     </tr>
     <tr>
-      <td>2023.11-2024.02</td>
+      <td>2023.11 - 2024.02</td>
       <td>에코가디언즈</td>
       <td>Unity 기반 환경 히어로 미니 게임</td>
       <td>Unity, C#</td>
       <td><a href="https://github.com/Anjihee/28th_2_UNICON_Ecoguardians_unity">에코가디언즈</a></td>
     </tr>
     <tr>
-      <td>2023.10-2023.12</td>
+      <td>2023.10 - 2023.12</td>
       <td>브스널컬러</td>
-      <td>뇌파 기반 집중력 진단 + 맞춤형 무드등 추천 서비스 </td>
+      <td>뇌파 기반 집중력 진단 + 맞춤형 무드등 추천 서비스</td>
       <td>Python, PHP</td>
       <td><a href="https://github.com/Anjihee/Bsonalcolor_Data">브스널컬러</a></td>
     </tr>
     <tr>
-      <td>2023.06-2023.08</td>
+      <td>2023.06 - 2023.08</td>
       <td>SURROUND</td>
       <td>편리한 공동구매를 돕는 Android 기반 앱</td>
       <td>Kotlin, Firebase</td>
@@ -82,7 +89,6 @@
   </tbody>
 </table>
 
-
 </br>
 </br>
 
@@ -90,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anjihee&show_icons=true&theme=radical" height="180"/>
+
 
 <br/><br/>
 
