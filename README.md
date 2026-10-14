@@ -34,7 +34,7 @@
         ActivityKit, WidgetKit, Vision(OCR)<br/>
         RevenueCat, Firebase
       </td>
-      <td>토도독</td>
+      <td><a href="https://apps.apple.com/kr/app/%ED%86%A0%EB%8F%84%EB%8F%85-%EB%8F%85%EC%84%9C-%ED%83%80%EC%9D%B4%EB%A8%B8-%EA%B8%B0%EB%A1%9D/id6758536383">토도독</a></td>
     </tr>
     <tr>
       <td>2025.11</td>
